@@ -22,7 +22,7 @@
 #### 1. 安装
 确保已安装 Go 1.21+。
 ```bash
-git clone https://github.com/yourusername/smartape-go.git
+git clone https://github.com/no-serve-people/smartape-go.git
 cd smartape-go
 go mod download
 ```
@@ -101,7 +101,7 @@ bot := strategy.NewBot(cfg, realClient)
 #### 1. Installation
 Ensure Go 1.21+ is installed.
 ```bash
-git clone https://github.com/yourusername/smartape-go.git
+git clone https://github.com/no-serve-people/smartape-go.git
 cd smartape-go
 go mod download
 ```
